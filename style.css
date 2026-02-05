@@ -66,17 +66,6 @@ body {
 	background-color: #E50914;
 }
 
-.changelog {
-	text-align: left;
-	position: fixed;
-	bottom: 0;
-	left: 10px;
-	font-size: 18px;
-	color: #949494;
-	font-family: Courier New;
-	text-decoration: none;
-}
-
 .Maitreya {
 	text-align: right;
 	position: fixed;
