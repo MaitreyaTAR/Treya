@@ -87,3 +87,10 @@ body {
 	font-family: Courier New;
 	text-decoration: none;
 }
+.changelogs {
+	color: white;
+	font-size: 18px;
+	font-family: Courier New;
+	margin-left: 10px;
+	list-style: square;
+}
